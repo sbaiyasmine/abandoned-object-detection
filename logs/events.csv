@@ -1,0 +1,13 @@
+timestamp,equipe_id,event_type,confidence,alert,alert_level,alert_message
+2026-05-16T14:14:41+00:00,6,object_present,0.58,False,none,suitcase detected
+2026-05-16T14:14:45+00:00,6,object_present,0.86,False,none,suitcase detected
+2026-05-16T14:14:47+00:00,6,abandoned_object,0.51,True,high,laptop abandoned
+2026-05-16T14:14:52+00:00,6,abandoned_object,0.51,True,high,book abandoned
+2026-05-16T14:15:00+00:00,6,abandoned_object,0.86,True,high,suitcase abandoned
+2026-05-16T14:15:10+00:00,6,abandoned_object,0.77,True,high,person abandoned
+2026-05-16T14:15:15+00:00,6,abandoned_object,0.58,True,high,tv abandoned
+2026-05-16T14:15:18+00:00,6,abandoned_object,0.78,True,high,laptop abandoned
+2026-05-16T14:15:20+00:00,6,abandoned_object,0.81,True,high,tv abandoned
+2026-05-16T14:15:24+00:00,6,abandoned_object,0.77,True,high,laptop abandoned
+2026-05-16T14:15:27+00:00,6,abandoned_object,0.69,True,high,person abandoned
+2026-05-16T14:15:30+00:00,6,abandoned_object,0.58,True,high,book abandoned
