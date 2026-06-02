@@ -1,0 +1,20 @@
+config json {
+  "equipe_id": 6,
+  "equipe_name": "detection_objets_abandonnes",
+  "camera_id": "cam_06",
+
+  "mqtt_broker": "127.0.0.1",
+  "mqtt_port": 1883,
+
+  "stream_fps": 15,
+
+  "model_path": "models/yolov8n_finetuned_320.onnx",
+
+  "confidence_threshold": 0.5,
+
+  "alert_thresholds": {
+    "abandoned_seconds": 4
+  },
+
+  "custom_params": {}
+}
